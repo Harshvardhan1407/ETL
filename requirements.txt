@@ -1,0 +1,6 @@
+flask
+pyarrow
+pymongo
+pandas
+holidays
+zstandard
