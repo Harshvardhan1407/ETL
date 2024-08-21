@@ -14,3 +14,4 @@ __pycache__/
 /logs
 /sensor_data
 app_log.log
+test.ipynb
