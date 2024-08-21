@@ -13,3 +13,4 @@ __pycache__/
 .vs
 /logs
 /sensor_data
+app_log.log
